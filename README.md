@@ -45,7 +45,7 @@ There are 3 Test Cases are configured in Test Suite **videonotestestng.xml** fil
     - From project root folder, Run command **"mvn clean test"**
      
 #### Test Report (Results):
-- After execution, emailable report and Test result reports will be available in the folder **target\surefire-report** 
+- After execution, emailable report and Test result reports will be available in the folder **target\surefire-reports** 
     - emailable-report.html
     - index.html
 
