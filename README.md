@@ -12,14 +12,17 @@
 - Install and configure Maven
     - Project is configured using maven framework to download dependencies (like Selenium and TestNG)
     - Verify using "mvn --version"
-   
+
+- Chrome Driver v2.41 (chromedriver.exe) is available in project root folder
+
+**OPTIONAL**   
 - Install preferred IDE (e.g. [Eclipse](https://www.eclipse.org/))
 
-- If you are using eclipse IDE then install 
+- If you are using eclipse IDE then install
     - Maven plugin
     - TestNG plugin (to run Test suite from Eclipse IDE )
 
-- Chrome Driver v2.41 (chromedriver.exe) is available in project root folder
+
 
 ### Run Test Suite:
 
@@ -40,4 +43,7 @@ There are 3 Test Cases are configured in Test Suite **videonotestestng.xml** fil
     - From project root folder, Run command **"mvn clean test"**
      
 #### Test Report (Results):
-- Both emailable report and Test result reports will be available in **"test-output"** folder
+- After execution, emailable report and Test result reports will be available in the folder **target\surefire-report** 
+    - emailable-report.html
+    - index.html
+
