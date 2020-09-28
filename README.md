@@ -22,7 +22,9 @@
     - Maven plugin
     - TestNG plugin (to run Test suite from Eclipse IDE )
 
-
+### Run Video Notes application (time-stamp)
+- This Web Test Automation project is testing [time-stamps](https://github.com/LoganBresnahan/time-stamps) application
+- After configuring pre-requisites for time-stamps application, please make sure application is running at [http://localhost:3000/](http://localhost:3000/)
 
 ### Run Test Suite:
 
