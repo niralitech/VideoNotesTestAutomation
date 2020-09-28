@@ -24,9 +24,9 @@
 ### Run Test Suite:
 
 There are 3 Test Cases are configured in Test Suite **videonotestestng.xml** file covering following scenarios:
-1. Register User - Register new user based on username, email and password
-2. Login - Login using previously registered user
-3. Create new Note - After login as registered user, create new note and tag comment to specific time
+1. **Register User** - Register new user based on username, email and password
+2. **Login** - Login using previously registered user
+3. **Create new Note** - After login as registered user, create new note and tag comment to specific time
 
 #### To execute Test Suite:
 
@@ -37,7 +37,7 @@ There are 3 Test Cases are configured in Test Suite **videonotestestng.xml** fil
 - Command line
     - Make sure Maven is configured in path
     - Open command line tool (Git bash or command prompt)
-    - From project root folder, Run command "mvn clean test"
+    - From project root folder, Run command **"mvn clean test"**
      
 #### Test Report (Results):
 - Both emailable report and Test result reports will be available in **"test-output"** folder
