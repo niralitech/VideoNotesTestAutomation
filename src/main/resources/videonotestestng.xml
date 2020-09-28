@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="VideoNotesTestSuite" parallel="false"
+	preserve-order="true" verbose="2">
+
+	
+	<test name="Register User">
+		<classes>
+			<class name="com.testautomation.videonotes.register.RegisterUserTestcase" />
+		</classes>
+	</test>
+
+	<test name="Login">
+		<classes>
+			<class name="com.testautomation.videonotes.login.LoginTestcase" />
+		</classes>
+	</test>
+
+	<test name="Create new Note">
+		<classes>
+			<class name="com.testautomation.videonotes.newnote.NewNoteTestcase" />
+		</classes>
+	</test>
+
+</suite>
