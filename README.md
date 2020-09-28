@@ -1,12 +1,12 @@
 # Video Notes Test Automation
 
-###Frameworks/Language used:
+### Frameworks/Language used:
 - [Java 8](https://www.oracle.com/java/technologies/java8.html)
 - [Selenium](https://www.selenium.dev/) - Selenium Java v2.53
 - [TestNG](https://testng.org/doc/index.html) - v6.8
 - [Maven](https://maven.apache.org/) - v3.6
 
-###Setup Instructions:
+### Setup Instructions:
 - Install Java 8
 
 - Install and configure Maven
